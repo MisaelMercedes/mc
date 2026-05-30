@@ -1,6 +1,9 @@
-```json
 {
   "redirecciona": [
-    { "fuente": "/(.*)", "destino": "https://script.google.com/macros/s/AKfycbzAkBRzeVpSHHcwRWAbNqXJcHLpIjeFKCfTsYHgRF1lvhqomUCOAgRHwhbT3lIAGM49/exec", "permanente": verdaddero }
+    {
+      "fuente": "/(.*)",
+      "destino": "https://script.google.com/macros/s/AKfycbzAkBRzeVpSHHcwRWAbNqXJcHLpIjeFKCfTsYHgRF1lvhqomUCOAgRHwhbT3lIAGM49/exec",
+      "permanente": verdadero
+    }
   ]
 }
